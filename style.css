@@ -1,0 +1,21 @@
+.emoji
+{
+  font-size:48px;
+}
+.heading
+{
+  font-size: 18px;
+  border-radius: 10px;
+  letter-spacing: 10px;
+}
+label{
+  color: aqua;
+  padding: 7px;
+  font-size: 16px;
+  border-radius:15px;
+  background-color:rgb(99, 99, 235);
+}
+body{
+  background:linear-gradient(rgb(99, 99, 235) 30%, rgb(255, 255, 255) 70%);
+
+}
